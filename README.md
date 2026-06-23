@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales & Customer Analytics
+# 🛒 CartIQ — E-Commerce Sales & Customer Analytics
 
 End-to-end data analytics project on the [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — 100k+ real orders across 9 tables.
 
@@ -39,3 +39,6 @@ streamlit run app.py
 - **Black Friday 2017** spike — 53% MoM growth
 - **22,000+ customers** identified as "At Risk" via RFM segmentation
 - **Health & Beauty** is the top revenue category at R$1.2M+
+
+---
+Built by [Muskan Varma](https://github.com/muskanvarmaa)
